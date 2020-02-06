@@ -12,3 +12,6 @@ You’re working for a client who wishes to invest in an Airbnb property in Wash
 - Neighborhood sentiment — Which neighborhoods receive the most positive reviews?
 
 Library Used: Pandas,numpy,matplotlib,warnings,seaborn
+
+please follow my blog : https://ohoudrehbiniphd.video.blog/2020/02/06/data-science-project-1-airbnb-investment-decision/ 
+
